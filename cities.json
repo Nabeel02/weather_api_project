@@ -1,0 +1,155 @@
+[
+  {
+    "id": 707860,
+    "name": "Hurzuf",
+    "country": "UA",
+    "coord": {
+      "lon": 34.283333,
+      "lat": 44.549999
+    }
+  },
+  {
+    "id": 1343000,
+    "name": "Surtagān Chib",
+    "country": "PK",
+    "coord": {
+      "lon": 64.656113,
+      "lat": 26.474443
+    }
+  },
+  {
+    "id": 1176832,
+    "name": "Hoshāb",
+    "country": "PK",
+    "coord": {
+      "lon": 63.911945,
+      "lat": 26.016945
+    }
+  },
+  {
+    "id": 1176862,
+    "name": "Hirok",
+    "country": "PK",
+    "coord": {
+      "lon": 63.59861,
+      "lat": 26.00639
+    }
+  },
+  {
+    "id": 1336846,
+    "name": "Niāmi Kalag",
+    "country": "PK",
+    "coord": {
+      "lon": 63.461388,
+      "lat": 25.853611
+    }
+  },
+  {
+    "id": 1179245,
+    "name": "Federally Administered Tribal Areas",
+    "country": "PK",
+    "coord": {
+      "lon": 69.999252,
+      "lat": 33.014549
+    }
+  },
+  {
+    "id": 1168197,
+    "name": "Peshawar",
+    "country": "PK",
+    "coord": {
+      "lon": 71.578491,
+      "lat": 34.007999
+    }
+  },
+  {
+    "id": 1168579,
+    "name": "Islamic Republic of Pakistan",
+    "country": "PK",
+    "coord": {
+      "lon": 70,
+      "lat": 30
+    }
+  },
+  {
+    "id": 1172451,
+    "name": "Lahore",
+    "country": "PK",
+    "coord": {
+      "lon": 74.343613,
+      "lat": 31.549721
+    }
+  },
+  {
+    "id": 1169825,
+    "name": "Multan",
+    "country": "PK",
+    "coord": {
+      "lon": 71.475281,
+      "lat": 30.19556
+    }
+  },
+  {
+    "id": 1167528,
+    "name": "Quetta",
+    "country": "PK",
+    "coord": {
+      "lon": 67.009712,
+      "lat": 30.198999
+    }
+  },
+  {
+    "id": 1173491,
+    "name": "Kohat",
+    "country": "PK",
+    "coord": {
+      "lon": 71.449287,
+      "lat": 33.581959
+    }
+  },
+  {
+    "id": 1179400,
+    "name": "Faisalabad",
+    "country": "PK",
+    "coord": {
+      "lon": 73.083328,
+      "lat": 31.41667
+    }
+  },
+  {
+    "id": 1184196,
+    "name": "Azad Kashmir",
+    "country": "PK",
+    "coord": {
+      "lon": 73.9104,
+      "lat": 33.947182
+    }
+  },
+  {
+    "id": 1174867,
+    "name": "Karāchi Lines",
+    "country": "PK",
+    "coord": {
+      "lon": 67.188797,
+      "lat": 24.9151
+    }
+  },
+  {
+    "id": 1174870,
+    "name": "Karāchi District",
+    "country": "PK",
+    "coord": {
+      "lon": 67.203461,
+      "lat": 25.07267
+    }
+  },
+  {
+    "id": 1174872,
+    "name": "Karachi",
+    "country": "PK",
+    "coord": {
+      "lon": 67.082199,
+      "lat": 24.9056
+    }
+  }
+]
